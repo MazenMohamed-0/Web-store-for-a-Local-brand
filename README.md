@@ -1,6 +1,6 @@
 # Web-store-for-a-Local-brand
 
-##Description
+## Description
 Running a local brand can be challenging due to its limited appeal compared to well
 established brands Additionally many local brands face difficulties in accessibility since 
 they often rely solely on physical stores lacking an online presence through a dedicated 
